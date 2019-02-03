@@ -25,10 +25,10 @@ public class MainActivity extends AppCompatActivity {
         radioBtnCuatro = (RadioButton) findViewById(R.id.radioBtnCuatro);
 
         //Limpia todos los radioButtons del grupo
-        //grupoBtns.clearCheck();
+        grupoBtns.clearCheck();
 
         //Check al radioButton indicado, en este caso, el radioButton Uno
-        //grupoBtns.check(R.id.radioBtn);
+        grupoBtns.check(R.id.radioBtn);
 
         radioBtnUno.setOnClickListener(evento);
         radioBtnDos.setOnClickListener(evento);
