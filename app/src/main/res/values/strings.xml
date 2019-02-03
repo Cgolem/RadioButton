@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">RadioButton</string>
+
+    <!-- RadioButtons -->
+    <string name="radio_btnUno">Primaria</string>
+    <string name="radio_btnDos">Secundaria</string>
+    <string name="radio_btnTres">Preparatoria</string>
+    <string name="radio_btnCuatro">Universidad</string>
+</resources>
